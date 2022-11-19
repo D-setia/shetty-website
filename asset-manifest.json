@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/shetty-website/static/css/main.3b2fc76a.css",
+    "main.css": "/shetty-website/static/css/main.200aaa06.css",
     "main.js": "/shetty-website/static/js/main.ee5709a1.js",
     "static/js/787.e403dcb9.chunk.js": "/shetty-website/static/js/787.e403dcb9.chunk.js",
     "static/media/img22.PNG": "/shetty-website/static/media/img22.bd6ac252d3a7e0245d96.PNG",
@@ -42,12 +42,12 @@
     "static/media/Brandon-Grot-W01-Light.ttf": "/shetty-website/static/media/Brandon-Grot-W01-Light.57bc8125cd1371cd5941.ttf",
     "static/media/img1.webp": "/shetty-website/static/media/img1.f1b8cb3e77a14af64018.webp",
     "index.html": "/shetty-website/index.html",
-    "main.3b2fc76a.css.map": "/shetty-website/static/css/main.3b2fc76a.css.map",
+    "main.200aaa06.css.map": "/shetty-website/static/css/main.200aaa06.css.map",
     "main.ee5709a1.js.map": "/shetty-website/static/js/main.ee5709a1.js.map",
     "787.e403dcb9.chunk.js.map": "/shetty-website/static/js/787.e403dcb9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b2fc76a.css",
+    "static/css/main.200aaa06.css",
     "static/js/main.ee5709a1.js"
   ]
 }
